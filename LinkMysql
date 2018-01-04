@@ -47,5 +47,3 @@ cur.close()
 conn.close()
 
 
-
-
