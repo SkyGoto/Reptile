@@ -58,6 +58,3 @@ def followExternalOnly(startingSite) :
 followExternalOnly("http://oreilly.com")
 
 
-
-
-
